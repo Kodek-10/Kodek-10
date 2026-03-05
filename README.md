@@ -2,7 +2,7 @@
 
 Computer Science student at Burkina Institute of Technology.<br/>
 I am passionate about programming, AI, and cybersecurity.<br/>
-You can follow my adventures at: [Linkedln] {https://www.linkedin.com/in/isra%C3%ABl-nkuna-b963b137a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app}
+You can follow my adventures
 
 
 ## 🌐 Socials:
