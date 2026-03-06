@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? I'm <br>Israel Wa Nzambi</h1>
+<h1 align="center">Hey 👋What's Up? I'm <br>NKUNA Israel Wa Nzambi</h1>
 
 ###
 
