@@ -1,4 +1,13 @@
-<h1 align="center">Hey 👋What's Up? I'm <br>NKUNA Israel Wa Nzambi</h1>
+[![committers.top badge](https://user-badge.committers.top/burkina_faso_private/Kodek-10.svg)](https://user-badge.committers.top/burkina_faso_private/Kodek-10)
+
+  <img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYzdGFsdWg5ZHd0MGdubWttYm1sYXNjdXY2Nzllc2xsa2J1MnVuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" 
+    width="100%"
+  />
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=200&center=true&multiline=true&width=435&height=80&lines=Hey%F0%9F%91%8BWhat's+Up%3F+I'm+;NKUNA+Israel+Wa+Nzambi" alt="Typing SVG" /></a>
+</div>
 
 ###
 
@@ -8,13 +17,27 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="_(1).jpeg"  />
-</div>
+<img align="right" alt="Coding" width="350" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFiZGFnOW4zNmdpMWtmemIzMjYzeWpncG91cmRkNHdhMzZuaGd6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
+-  🇨🇩 Congolese computer science student in Burkina Faso
+
+- 🔒 Passionate about cybersecurity
+  
+- 🧠 AI enthusiast
+
+- 💻 Full-stack developer in my free time
+
+- 📫 How to reach me **israelnkuna810@gmail.com**
+
+- ⚡ Fun fact **I am basketball player**
 
 ###
 
-<p align="left">🇨🇩 Congolese computer science student in Burkina Faso<br>🔒 Passionate about cybersecurity<br>🧠 AI enthusiast<br>💻 Full-stack developer in my free time</p>
+</br>
+</br>
+</br>
+</br>
+
 
 ###
 
