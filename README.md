@@ -114,5 +114,3 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/kodek-10">GitHub</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Israel Wa Nzambi NKUNA · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
